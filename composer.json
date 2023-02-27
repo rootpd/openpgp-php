@@ -1,6 +1,7 @@
 {
-  "name": "singpolyma/openpgp-php",
-  "description": "Pure-PHP implementation of the OpenPGP Message Format (RFC 4880)",
+  "name": "rootpd/openpgp-php",
+  "type": "library",
+  "description": "Pure-PHP implementation of the OpenPGP Message Format (RFC 4880). This fork exists only to have tagged v0.5 compatible with PHP 8.1.",
   "license": "Unlicense",
   "authors": [
     {
